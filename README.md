@@ -160,7 +160,7 @@ The complete Week 02 Penetration Testing Report is included in this repository i
 **Week:** 02  
 **Focus:** Footprinting, Reconnaissance & Network Scanning  
 **Author:** Imran Ali Haider
-
+**GitHub:**  [ImranAliHaider](https://github.com/ImranAliHaider)
 
 ---
 
