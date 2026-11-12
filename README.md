@@ -161,8 +161,7 @@ The complete Week 02 Penetration Testing Report is included in this repository i
 **Focus:** Footprinting, Reconnaissance & Network Scanning  
 **Author:** Imran Ali Haider
 **GitHub:** [ImranAliHaider](https://github.com/ImranAliHaider)
-**hello**
-
+**Author:**
 ---
 
 *Learning by practicing. Building cybersecurity skills through hands-on labs and responsible security research.*
