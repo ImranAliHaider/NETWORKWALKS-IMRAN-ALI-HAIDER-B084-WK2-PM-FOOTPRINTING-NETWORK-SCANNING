@@ -161,8 +161,8 @@ The complete Week 02 Penetration Testing Report is included in this repository i
 **Program:** Cybersecurity Program — Networkwalks  
 **Week:** 02  
 **Focus:** Footprinting, Reconnaissance & Network Scanning  
-**Author:** Hamid Ali  
-**GitHub:** [Mirhamidqureshi](https://github.com/Mirhamidqureshi)
+**Author:** Imran Ali Haider  
+**GitHub:** [ImranAliHaider](https://github.com/Mirhamidqureshi)
 
 ---
 
